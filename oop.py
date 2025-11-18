@@ -16,6 +16,8 @@ print(Student_2.speciality)
 print(Student_3.speciality)
 print(Student_4.speciality)
 
+
+# Departments 
 Department_1 = department("CSE", 150, 10, "Patel Block", "East Wing")
 Department_2 = department("Medicine", 250, 20, "Gupta Block", "Central")
 Department_3 = department("COBAMS", 300, 12, "CTF 1", "Western wing")
