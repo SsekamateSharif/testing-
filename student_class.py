@@ -12,4 +12,14 @@ class student:
     def failed(self):
         print("The student failed")
 
+class department:
+    def __init__(self, depart_name, students_No, cars, Building, location):
+        self.depart_name = depart_name
+        self.students_No = students_No
+        self.cars = cars
+        self.Building = Building 
+        self.location = location 
+
+
+        
 
